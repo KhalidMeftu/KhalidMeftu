@@ -6,7 +6,7 @@ Senior android developer experienced in Java, Kotlin, Flutter and Laravel with 5
 
 Skills: Android / Flutter / Dart / HTML / CSS / Laravel  /SQL / API Development/ API Integration/ VUE
 
-- 🔭 I’m currently working on 6birdView before worked with companies like Chapa Financial Technologies, GoTech Technologies, Bank of memories and EthioMApps
+- 🔭 I’m currently working on 6irdView before worked with companies like Chapa Financial Technologies, GoTech Technologies, Bank of memories and EthioMApps
 - 🌱 I’m currently learning Node Js, React 
 - 👯 I’m looking to collaborate on Android, Laravel and Flutter  
 - 💬 Ask me about Android, Flutter and Laravel 
