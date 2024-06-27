@@ -1,18 +1,39 @@
-### Hi there 👋, my name is Kalid
-#### I am Android, Flutter and Laravel developer
-![I am Android, Flutter and Laravel developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h2 align="left">Hi 👋! My name is Kalid and I'm Android and Flutter enthusiast from Ethiopia</h2>
 
-Senior android developer experienced in Java, Kotlin, Flutter and Laravel with 5 years of experience, I have single handed 50+ mobile apps to different companies. Now am here to contribute and learn more on my fields.
+###
 
-Skills: Android / Flutter / Dart / HTML / CSS / Laravel  /SQL / API Development/ API Integration/ VUE
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🔭 I’m currently working on 6irdView before worked with companies like Chapa Financial Technologies, GoTech Technologies, Bank of memories and EthioMApps
-- 🌱 I’m currently learning Node Js, React 
-- 👯 I’m looking to collaborate on Android, Laravel and Flutter  
-- 💬 Ask me about Android, Flutter and Laravel 
-- 📫 How to reach me: khalidmeftu@gmail.com 
-- ⚡ Fun fact: Still learning 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KhalidMeftu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khalid-meftu-47646a166//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portifolio.ethiomappsgebeta.com)  
+###
 
+<div align="left">
+  <a href="khalidmeftu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kalid-m-47646a166/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@khalidmeftu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+###
