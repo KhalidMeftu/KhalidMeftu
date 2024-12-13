@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalid</h1>
 <h3 align="center">A passionate Android & Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Android & Flutter**
+- 🌱 I’m currently developing **Android & Flutter** apps
 
 - 📝 I regularly write articles on [https://medium.com/@khalidmeftu](https://medium.com/@khalidmeftu)
 
