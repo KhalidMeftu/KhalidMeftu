@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **khalidmeftu@gmail.com**
 
-- ⚡ Fun fact **Still Student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
